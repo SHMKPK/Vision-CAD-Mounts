@@ -1,2 +1,2 @@
 # Vision-CAD-Mounts
-A Repository for 3D Printable Mounts for Arducams and the Orange Pi 5
+A Repository for 3D Printable Mounts for Arducams and the Orange Pi 5 for Hack Club
